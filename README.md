@@ -1,1 +1,1 @@
-# OpenWeatherMapSpringAPI
+# OpenWeatherMapAPI
