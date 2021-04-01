@@ -9,7 +9,7 @@
 	<description>API for OpenWeatherMap</description>
 
 	<properties>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<json.version>0.9.2</json.version>
 	</properties>
 
